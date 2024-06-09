@@ -14,4 +14,4 @@ Welcome to **OnlineWardrobe**, your ultimate destination for fashion shopping! E
 
 ## Demo
 
-Check out the live demo of OnlineWardrobe [here](https://Subaiyal-Rehan.github.io/OnlineWardrobe).
+Check out the live demo of OnlineWardrobe [here](https://quiztick1.web.app).
