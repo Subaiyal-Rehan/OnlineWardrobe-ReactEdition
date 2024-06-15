@@ -27,7 +27,7 @@ function Navbar(props: any) {
     >
       <div className="container-fluid">
         <button
-          className="navbar-toggler"
+          className="navbar-toggler "
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarsExample11"
